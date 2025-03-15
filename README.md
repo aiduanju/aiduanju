@@ -1,7 +1,9 @@
 ## 最新短剧大全,短剧全集免费观看,免费追热门排行 短剧大全提供免费在线播放服务！
 
 <https://aiduanju.github.io>
-<https://zhaoju.cc.github.io>
+
+
+<https://zhaoju.cc>
 
 **aiduanju/aiduanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
