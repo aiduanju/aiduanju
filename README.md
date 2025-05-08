@@ -7,7 +7,12 @@
 
 **aiduanju/aiduanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+短剧分享网: <https://tv.zhaoju8.com:8443>
+短剧分享网: <https://tv.zhaoju8.com:8443>
+短剧分享网: <https://tv.zhaoju8.com:8443>
+
+
+看短剧上找剧网：[zhaoju.cc](https://zhaoju.cc)：免费短剧网盘资源在线观看平台：短剧爱好者的追剧天堂！
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
