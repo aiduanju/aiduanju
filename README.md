@@ -8,7 +8,7 @@
 网站地址：<https://www.ntrku.com/>
 网站地址：<https://www.ntrku.com/>
 
-**aiduanju/aiduanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 网站地址：<https://www.ntrku.com/>
 网站地址：<https://www.ntrku.com/>
